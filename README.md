@@ -1,7 +1,7 @@
 # 🌐 AutomateGIS
 
-A collection of automated workflows for GIS analysis tasks using Python and open-source libraries.
-This project is great for learning how to handle spatial data, run hydrological analysis and build tools for mapping — all with code!
+A collection of automated workflows for GIS analysis tasks using Python and open-source libraries.  
+This project is great for learning how to handle spatial data, run hydrological analysis and build tools for mapping - all with code!
 
 ---
 ## 🗺️ [Project 1: Catchment Area Delineation -  Hands-on Project](https://github.com/ChanikaJan/AutomateGIS/blob/main/01_CatchmentAreas/01_CatchmentAreas.ipynb)
